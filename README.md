@@ -11,4 +11,4 @@
 ## - Total Quantity Sold: 5M units
 ## - Customer Base: 5,000 customers
 ## - Market Reach: 38 countries
-## - These indicators suggest both increased demand and expanding market penetration.
+## These indicators suggest both increased demand and expanding market penetration.
