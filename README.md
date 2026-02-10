@@ -3,5 +3,5 @@
 
 ## Dashboard Overiew
 
-![Sales_Dashboard](Sales Screenshot.png)
+! [Sales_Dashboard](Sales Screenshot.png)
 
