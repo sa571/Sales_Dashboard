@@ -47,3 +47,10 @@
 ## - Identify revenue drivers
 ## - Optimize product strategy
 ## - Allocate resources effectively
+
+
+# 🛠 Tools Used
+## Python — Data cleaning & preparation for large datasets
+## SQL — Data querying & aggregation
+## Excel — Data validation
+## Power BI — Data modeling & interactive visualization
