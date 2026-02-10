@@ -33,3 +33,17 @@
 ## Product prioritization
 ## Inventory optimization
 ## Pricing and promotion strategies
+
+# Customer & Transaction Insights
+## - Customer-level metrics highlight:
+## - Growth in customer acquisition
+## - Increased purchasing activity
+## - Higher transaction volumes
+## These patterns indicate improved customer engagement and retention.
+
+# 🔹 Key Takeaway
+## The dashboard demonstrates how structured data modeling and visualization can transform raw transactional data into clear business intelligence. The insights enable leadership to:
+##- Monitor growth
+## - Identify revenue drivers
+## - Optimize product strategy
+## - Allocate resources effectively
