@@ -26,3 +26,10 @@
 ## Focus marketing investment on high-performing regions
 ## Identify underperforming countries with growth potential
 ## Guide international expansion strategy
+
+# Product Performance Insights
+## The Top 10 Revenue-Driving Products analysis shows that revenue is concentrated among a limited set of products, with the top items generating significantly higher sales than the rest.
+## This supports:
+## Product prioritization
+## Inventory optimization
+## Pricing and promotion strategies
