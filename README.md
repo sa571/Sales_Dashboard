@@ -23,16 +23,16 @@
 # Geographic Performance
 ## Revenue distribution by country reveals that a small number of countries contribute the majority of revenue, with the leading market accounting for a dominant share.
 ## This insight helps the business:
-## Focus marketing investment on high-performing regions
-## Identify underperforming countries with growth potential
-## Guide international expansion strategy
+## - Focus marketing investment on high-performing regions
+## - Identify underperforming countries with growth potential
+## - Guide international expansion strategy
 
 # Product Performance Insights
 ## The Top 10 Revenue-Driving Products analysis shows that revenue is concentrated among a limited set of products, with the top items generating significantly higher sales than the rest.
 ## This supports:
-## Product prioritization
-## Inventory optimization
-## Pricing and promotion strategies
+## - Product prioritization
+## - Inventory optimization
+## - Pricing and promotion strategies
 
 # Customer & Transaction Insights
 ## - Customer-level metrics highlight:
@@ -43,7 +43,7 @@
 
 # 🔹 Key Takeaway
 ## The dashboard demonstrates how structured data modeling and visualization can transform raw transactional data into clear business intelligence. The insights enable leadership to:
-##- Monitor growth
+## - Monitor growth
 ## - Identify revenue drivers
 ## - Optimize product strategy
 ## - Allocate resources effectively
