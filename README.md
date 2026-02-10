@@ -3,4 +3,3 @@
 
 ## Dashboard Overiew 
 <img width="872" height="556" alt="Image" src="https://github.com/user-attachments/assets/967602c6-c0c3-4c54-b8b4-4a15560853c2"/>
-![Sales Dasbaord](sales_dashboard.png)
