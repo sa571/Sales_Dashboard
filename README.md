@@ -12,3 +12,10 @@
 ## - Customer Base: 5,000 customers
 ## - Market Reach: 38 countries
 ## These indicators suggest both increased demand and expanding market penetration.
+
+# Revenue Trend Analysis (2018 vs 2019)
+## -The revenue trend visual highlights fluctuations across months, allowing stakeholders to:
+## -Identify peak and low sales periods
+## -Detect seasonal patterns
+## - Evaluate performance consistency between years
+##  This supports forecasting and inventory planning decisions.
