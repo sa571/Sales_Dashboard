@@ -19,3 +19,10 @@
 ## -Detect seasonal patterns
 ## - Evaluate performance consistency between years
 ##  This supports forecasting and inventory planning decisions.
+
+# Geographic Performance
+## Revenue distribution by country reveals that a small number of countries contribute the majority of revenue, with the leading market accounting for a dominant share.
+## This insight helps the business:
+## Focus marketing investment on high-performing regions
+## Identify underperforming countries with growth potential
+## Guide international expansion strategy
